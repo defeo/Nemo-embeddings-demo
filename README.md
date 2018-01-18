@@ -7,7 +7,7 @@ finite fields in Nemo. Thanks to [@erou](https://github.com/erou/).
 
 ## Preview
 
-Have a look at <demo.ipynb> to learn about the interface.
+Have a look at [demo.ipynb](demo.ipynb) to learn about the interface.
 
 ## Play around
 
